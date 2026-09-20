@@ -14,6 +14,8 @@ inspired by Dr. Dhananjay Bhaskar’s Master Thesis (University of British Colum
 In PMA_cells folder
 
 01 - Extract features
+
 02 - Extract Persistent diagrams and images
+
 03 - Extract latent from Autoencoder 
 
