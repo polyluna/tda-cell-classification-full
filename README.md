@@ -1,7 +1,7 @@
 # tda-cell-classification-full
 
 In summer 2026 term, I worked with Dr. Leah Edelstein-Keshet and Dr. Dhananjay Bhaskar on a
-project: buildingashapedescriptorforsegmentedcellimagesusingtopological data analysis (TDA).
+project: building a shape descriptor for segmented cell images using topological data analysis (TDA).
 We developed an unsupervised cell classification tool that provides quantitative visualization of
 perturbation effects. This tool can be applied to differentiate healthy from diseased cells.
 Cell shape is a rich, label-free readout of a cell’s state and environment, but the common way of
